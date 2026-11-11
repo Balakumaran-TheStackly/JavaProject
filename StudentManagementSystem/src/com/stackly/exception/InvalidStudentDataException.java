@@ -1,0 +1,7 @@
+package com.stackly.exception;
+
+public class InvalidStudentDataException extends Exception {
+	public InvalidStudentDataException(String msg) {
+		super(msg);
+	}
+}
