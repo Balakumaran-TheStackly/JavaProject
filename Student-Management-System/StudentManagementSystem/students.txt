@@ -1,3 +1,0 @@
-1001,kumar,kumar@gmail.com,85.0,90,ACTIVE,101,Java Full Stack,6
-1002,priya,priya@gmail.com,95.0,98,ACTIVE,102,Python Development,4
-1003,Bala,bala@gmail.com,78.0,91,ACTIVE,103,Web Development,3
